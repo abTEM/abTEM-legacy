@@ -6,6 +6,9 @@
 The abTEM code: transmission electron microscopy from first principles
 ======================================================================
 
+.. warning::
+   This is the documentation for the legacy version of *ab*TEM. For the current version, please visit [this page](https://abtem.github.io/doc/intro.html).
+
 abTEM provides a Python API for running simulations of (scanning) transmission electron microscopy images and diffraction 
 patterns. It is written entirely in Python, which enables easy integration with first-principles codes and analysis tools 
 accessible from Python, and allows for a simple and intuitive user interface. The computationally demanding parts are 
